@@ -1,0 +1,46 @@
+button{
+  height: 50px;
+  width: 80px;
+  font-size:1.8rem;
+  border-radius: 13px;
+  box-shadow: 2px 5px 0px 0px;
+  border-color: green;
+  margin-bottom: 10px
+}
+h1{
+  font-size: 3rem;
+  color:brown;
+  font-weight: bold;
+
+}
+body{
+  background-color: gray;
+  text-align: center;
+
+}
+input{
+  height: 50px;
+  width: 324px;
+  margin-bottom: 15px;
+  border-radius:18px;
+  border: 2px solid black;
+  font-size: 30px;
+  box-shadow: 2px 5px 0px 0px;
+  border-color: green;
+  text-align: right;
+}
+
+
+
+}
+footer{
+  font-size: 2rem;
+  color: red;
+  margin-top: 20px;
+}
+.cal{
+  display: inline-block;
+  background-color: #0077ff;
+  border-radius: 25px;
+  padding: 12px;
+}
